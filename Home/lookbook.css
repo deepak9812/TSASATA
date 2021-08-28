@@ -482,6 +482,13 @@ nav #TSA h2 span {
   .brand-container .brand-horz h2 {
     width: 140%;
   }
+  .cursor {
+    width: 0px;
+    height: 0px;
+  }
+  .cursor h2 {
+    font-size: 0px;
+  }
   .cms-slider {
     margin: 15px;
   }
